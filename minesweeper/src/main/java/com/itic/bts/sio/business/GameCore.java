@@ -39,7 +39,7 @@ public class GameCore {
 			} else if (!game.isDone()) {
 				System.out.print("\nEntrer les coordonnees de x.");
 				y = scan.nextInt();
-				System.out.print("\nEntrer les coordonnees de ys.");
+				System.out.print("\nEntrer les coordonnees de y.");
 				x = scan.nextInt();
 				play(x, y);
 				isVictory();
