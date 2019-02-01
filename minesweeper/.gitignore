@@ -1,0 +1,6 @@
+# ... from Eclipse
+**/.settings
+**/.project
+**/.classpath
+# Maven
+**/target
